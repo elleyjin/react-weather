@@ -1,0 +1,19 @@
+.navibar {
+  margin: 30px auto 0 auto;
+}
+
+.fa-location-dot {
+  font-size: 18pt;
+  color: white;
+  margin: 15px;
+}
+
+.current-location {
+  font-size: 16pt;
+  font-weight: 700;
+  color: white;
+}
+
+.current-location:hover {
+  color: white;
+}

@@ -1,0 +1,11 @@
+footer {
+  text-align: center;
+  margin: 25px auto;
+  opacity: 0.8;
+}
+
+a.footer {
+  font-weight: 700;
+  opacity: 1;
+  cursor: pointer;
+}

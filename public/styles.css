@@ -1,0 +1,16 @@
+body {
+  min-width: 85%;
+  margin: 0 auto;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 500;
+  color: white;
+  background: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  cursor: default;
+  opacity: 0.8;
+  font-weight: 400;
+}

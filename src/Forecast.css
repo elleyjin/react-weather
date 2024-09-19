@@ -1,0 +1,22 @@
+.card-title {
+  font-size: 17pt;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.card {
+  background: inherit;
+  border: none;
+  color: white;
+}
+
+.weather-icon {
+  width: 50px;
+  display: block;
+  margin: 40px auto;
+}
+
+.weekday {
+  font-size: 14pt;
+  font-weight: 500;
+}
