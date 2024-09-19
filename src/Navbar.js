@@ -10,7 +10,7 @@ export default function Navbar() {
           <i className="fa-solid fa-location-dot" id="location-pin"></i>
           <span id="city"></span>
         </div>
-        <Search />
+        <Search city="New York" />
       </div>
     </nav>
   );
