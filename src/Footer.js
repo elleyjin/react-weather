@@ -7,7 +7,7 @@ export default function Footer() {
       <strong>
         <a
           className="footer"
-          href="https://github.com/elleyjin/vanilla-weather-app"
+          href="https://github.com/elleyjin/react-weather"
           target="_blank"
           rel="noreferrer"
         >
