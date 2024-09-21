@@ -14,17 +14,19 @@ export default function Search(props) {
   //   }
 
   return (
-    <form className="d-flex Search" id="search-form">
-      <input
-        type="search"
-        id="search-input"
-        className="form-control me-2"
-        placeholder="Search a city"
-        autoComplete="off"
-      ></input>
-      <button className="btn btn-outline-light" type="submit">
-        <i className="fa-solid fa-magnifying-glass"></i>
-      </button>
-    </form>
+    <div className="Search">
+      <form className="d-flex" id="search-form">
+        <input
+          type="search"
+          id="search-input"
+          className="form-control me-2"
+          placeholder="Search a city"
+          autoComplete="off"
+        ></input>
+        <button className="btn btn-outline-light" type="submit">
+          <i className="fa-solid fa-magnifying-glass"></i>
+        </button>
+      </form>
+    </div>
   );
 }

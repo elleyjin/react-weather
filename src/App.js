@@ -8,12 +8,12 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Navbar />
-        <Header />
-        <Forecast />
-        <Footer />
-      </header>
+      {/* <header className="App-header"> */}
+      <Navbar />
+      <Header />
+      <Forecast />
+      {/* </header> */}
+      <Footer />
     </div>
   );
 }

@@ -1,5 +1,12 @@
+.Navbar {
+  justify-content: space-between;
+  /* padding: 10px 0; */
+  padding: 0;
+  height: 40px;
+}
+
 .navibar {
-  margin: 30px auto 0 auto;
+  /* height: 5px; */
 }
 
 .fa-location-dot {

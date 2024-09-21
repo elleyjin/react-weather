@@ -1,8 +1,9 @@
-.App-header {
+.App {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   font-family: "Quicksand", sans-serif;
   color: white;
+  margin: 0 auto;
 }
