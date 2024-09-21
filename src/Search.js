@@ -14,7 +14,7 @@ export default function Search(props) {
   //   }
 
   return (
-    <form className="d-flex" id="search-form">
+    <form className="d-flex Search" id="search-form">
       <input
         type="search"
         id="search-input"
